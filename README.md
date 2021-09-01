@@ -1,4 +1,4 @@
-# FoodOn
+# HappiMiru
 
 ## Installation Guide
 1. Clone repository
