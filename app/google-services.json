@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "399624111391",
+    "firebase_url": "https://happimiru1-default-rtdb.firebaseio.com",
+    "project_id": "happimiru1",
+    "storage_bucket": "happimiru1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399624111391:android:293bc01e360cda845b1c2a",
+        "android_client_info": {
+          "package_name": "com.food_on.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399624111391-f5fcbpb40c5smdaldfqcugfbh3cmtc9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.food_on.app",
+            "certificate_hash": "74c87cb30edb973e63fbbfdcb63e7486ae237fe6"
+          }
+        },
+        {
+          "client_id": "399624111391-sj0tob47ji9lgd3fmv397l85lvpjojgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnOb9UURt3VV9pS7ihRAueY36ZdI919No"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399624111391-sj0tob47ji9lgd3fmv397l85lvpjojgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
